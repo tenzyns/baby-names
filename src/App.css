@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+/*-------- babyNamePicker------- */
+.baby-names-container {
+  margin: 1em;
+  padding: 2em;
+  border: 5px solid;
+  border-right-color: rgb(233, 95, 95);
+  border-left-color: hsl(135, 95%, 68%);
+  border-top-color: hsl(135, 95%, 68%);
+  border-bottom-color: rgb(233, 95, 95);
+  border-radius: 5px;
+}
+
+.all-names {
+  display: inline-block;
+  padding: 5px;
+  margin: 3px;
+  font-size: 1.5rem;
+  border-radius: 3px;
+}
+.female {
+  background-color: hsl(135, 95%, 68%);
+  color: crimson;
+}
+.male {
+  background-color: rgb(233, 95, 95);
+  color: #dde4e6;
+}
+hr {
+  margin-top: 3em;
+  height: 2px;
+  background-color: gray;
+}
