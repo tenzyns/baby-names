@@ -57,6 +57,12 @@
   font-size: 2rem;
 }
 
+.favorites {
+  margin: 1em;
+  font-size: 2rem;
+  text-align: left;
+}
+
 .all-names {
   display: inline-block;
   padding: 5px;
